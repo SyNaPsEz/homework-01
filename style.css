@@ -1,0 +1,33 @@
+.header {
+    padding: 50px;
+    margin-bottom: 20px;
+    color:#333;
+    background-color:#ebebeb;
+    width:940px;
+    margin:0 auto;
+    height:50px;
+}
+
+.nav {
+    padding: 50px;
+    margin-bottom: 20px;
+    color:#333;
+    background-color:#ebebeb;
+    width:940px;
+    margin:0 auto;
+    height:50px;
+}
+
+.section {
+    padding: 50px;
+    margin-bottom: 20px;
+    background-color: #ebebeb;
+    width:500px;
+    position: relative;
+}
+
+* {
+    box-sizing: border-box;
+    text-align: center;
+    background-color:#777
+}
